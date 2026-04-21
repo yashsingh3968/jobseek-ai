@@ -1,0 +1,17 @@
+flask
+streamlit
+sqlalchemy
+alembic
+beautifulsoup4
+feedparser
+fuzzywuzzy[speedup]
+pypdf2
+scikit-learn
+google-generativeai
+python-dotenv
+plotly
+apscheduler
+pytest
+pytest-cov
+behave
+gunicorn
