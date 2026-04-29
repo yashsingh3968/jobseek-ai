@@ -1,0 +1,4 @@
+sources:
+  - name: hackernews_jobs
+    type: rss
+    url: "https://hnrss.org/jobs"
