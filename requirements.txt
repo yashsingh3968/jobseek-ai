@@ -16,3 +16,6 @@ pytest-cov
 behave
 gunicorn
 pyyaml
+beautifulsoup4 
+pypdf 
+psycopg2-binary
